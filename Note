@@ -1,0 +1,36 @@
+
+---
+
+## 🚧 Key Challenges
+
+- Training instability due to ODE solvers
+- High computational cost of numerical integration
+- Sensitivity to solver choice and tolerances
+- Debugging complexity in continuous-time models
+
+---
+
+## 📄 Report
+
+A detailed report including:
+- Mathematical formulation
+- Solver rationale
+- Quantitative results
+- Qualitative discussion
+- Neural CDE and Latent ODE extensions
+
+📎 **File:** `Neural_ODE_Time_Series_Report.pdf`
+
+---
+
+## ✅ Conclusion
+
+Neural ODE-based models provide a principled and flexible alternative to traditional RNNs for time series forecasting, especially when continuous-time dynamics or irregular sampling is involved.
+
+---
+
+## 👤 Author
+
+**ARUN**
+
+
